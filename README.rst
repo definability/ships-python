@@ -4,8 +4,10 @@ Ships
 #. `Static methods`_ (task 1.1)
 #. `Implementation of factorial`_ (task 1.2)
 #. `Polynomial regression`_ (task 2.1)
-#. Ship position probabilities map (task 2.2):
-    - `math`_
+#. Ship position probabilities map (task 2.2)
+    - `math`_. In order to see formulas properly,
+      you should download and launch the notebook
+      instead of viewing it here, in GitHub.
     - `calculations`_
     - `resulting maps`_
 
