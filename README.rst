@@ -1,6 +1,9 @@
 Ships
 =====
 
+An enjoyable test task involving statistics and numerical methods.
+Archived.
+
 #. `Static methods`_ (task 1.1)
 #. `Implementation of factorial`_ (task 1.2)
 #. `Polynomial regression`_ (task 2.1)
